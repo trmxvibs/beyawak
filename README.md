@@ -1,6 +1,4 @@
-# File Read/Write Example in Python
 
-This repository contains a simple Python script that demonstrates how to read from and write to a text file. The script includes functions to handle file operations and provides basic error handling.
 
 ## Table of Contents
 
