@@ -31,10 +31,4 @@
    # License
 This project is licensed under the MIT License - see the LICENSE file for details.
    
-### Instructions for Use
-
-1. **Create a New File**: Create a new file named `README.md` in the same directory as your Python script.
-2. **Copy and Paste**: Copy the above content and paste it into the `README.md` file.
-3. **Customize**: Feel free to modify any sections to better fit your project or add additional information as needed.
-
 
