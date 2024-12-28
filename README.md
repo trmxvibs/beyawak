@@ -37,4 +37,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 2. **Copy and Paste**: Copy the above content and paste it into the `README.md` file.
 3. **Customize**: Feel free to modify any sections to better fit your project or add additional information as needed.
 
-This `README.md` file provides a clear overview of the project, its features, and how to use it, making it easier for others (or yourself in the future) to understand and utilize the code.
+
